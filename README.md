@@ -5,5 +5,5 @@ These files have been modified from the [3D printing repo](https://github.com/Zh
 
 This repository contains files for:
 * Nikon Ti-Eclipse filter cube
-* Nikon emssion filter holder for 1 filters
-* Nikon emssion filter holder for 3 filters
+* Nikon emission filter holder for 1 filters
+* Nikon emission filter holder for 3 filters
