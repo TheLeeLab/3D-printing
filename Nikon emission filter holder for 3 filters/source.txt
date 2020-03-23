@@ -1,3 +1,2 @@
-Source: https://github.com/ZhuangLab/3D-printing/tree/master/nikon_filter_cube
-
-Modified by ezra bruggeman to have slots for 3 filters on 17/01/2020
+These files were modified from:
+https://github.com/ZhuangLab/3D-printing/tree/master/nikon_filter_cube
