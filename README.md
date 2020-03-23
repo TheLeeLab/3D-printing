@@ -11,6 +11,8 @@ This repository contains files for:
 
 The designs have been tested with a Nikon Eclipse Ti-U.
 
+---
+
 Other resources for microscopy-related 3D-printing files are:
 * https://github.com/ZhuangLab/3D-printing
 * https://github.com/HohlbeinLab/HohlbeinLab.github.io/tree/master/miCube
