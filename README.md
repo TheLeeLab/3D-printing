@@ -8,3 +8,5 @@ This repository contains files for:
 * Nikon emission filter holder for 1 filters
 * Nikon emission filter holder for 3 filters
 * _More to come ..._
+
+The designs have been tested with a Nikon Eclipse Ti-U.
